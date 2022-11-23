@@ -1,0 +1,73 @@
+.businessCare {
+    position: absolute;
+    width: 1101px;
+    height: 694px;
+    left: 165px;
+    top: 1900px;
+}
+
+.illustrator {
+    position: absolute;
+    width: 576px;
+    height: 690px;
+    left: 50px;
+    top: 0px;
+}
+
+.content h1 {
+    position: absolute;
+    width: 443px;
+    height: 140px;
+    left: 600px;
+    top: 0px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -0.96px;
+    color: #343333;
+}
+
+.content p {
+    position: absolute;
+    width: 454px;
+    height: 87px;
+    left: 600px;
+    top: 170px;
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #838383;
+}
+
+.contentPoints {
+    display: grid;
+    grid-template-columns: auto;
+    grid-column: auto;
+    column-gap: 20em;
+    line-height: 0px;
+    position: absolute;
+    width: 454px;
+    height: 87px;
+    left: 850px;
+    top: 2220px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+
+}
+
+.point {
+    width: 358px;
+    height: 73px;
+    left: 670px;
+    top: 331px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+}

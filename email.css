@@ -1,0 +1,77 @@
+.email {
+    position: absolute;
+    width: 1077px;
+    height: 414px;
+    left: 240px;
+    top: 3850px;
+}
+
+.mask {
+    position: absolute;
+    position: absolute;
+    top: 135px;
+    bottom: 15.82%;
+    height: 278px;
+    width: 930px;
+    background: #6246E4;
+    border-radius: 20px;
+}
+
+.mask h3 {
+    position: absolute;
+    height: 100px;
+    width: 400px;
+    left: 20.86%;
+    right: 48.89%;
+    color: #FFFFFF;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.mask input {
+    height: 50px;
+    width: 202px;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.216729);
+    border-radius: 15px;
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+    left: 20.72%;
+    border: none;
+    top: 62.14%;
+    position: absolute;
+}
+
+.mask button {
+    position: absolute;
+    left: 45%;
+    right: 46.88%;
+    top: 63.14%;
+    font-family: 'Gilroy-Medium';
+    font-size: 16px;
+    font-weight: bold;
+    bottom: 16.72%;
+    Height: 50px;
+    border: none;
+    background: #FFFFFF;
+    border-radius: 15px;
+    color: #6246E4;
+}
+
+.mask button:hover {
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.email img {
+    position: absolute;
+    width: 542px;
+    height: 379px;
+    left: 533px;
+    top: 0px;
+}

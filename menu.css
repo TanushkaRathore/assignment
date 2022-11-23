@@ -1,0 +1,144 @@
+header {
+  position: absolute;
+  width: 1300px;
+  height: 900px;
+  left: 0px;
+  top: 0px;
+}
+
+.menu {
+  width: 1300px;
+  height: 100px;
+  background: #f9f9f9;
+  border-bottom: 1px solid #eaeaea;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  font-family: 'Be Vietnam Pro', sans-serif;
+  padding: 0 100px;
+}
+
+.navbarLinks ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.navbarLinks ul li a {
+  text-decoration: none;
+  padding: 0 30px;
+  color: #4F4F4F;
+  font-weight: bolder;
+}
+
+.navbarLinks a:hover {
+  color: #4F4F4F;
+  font-size: large;
+}
+
+
+.navbarButton {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbarButton ul {
+  list-style-type: none;
+}
+
+.navbarButton ul li a {
+  text-decoration: none;
+  padding: 0 20px;
+  color: black;
+  font-weight: bolder;
+}
+
+.navbarButton button {
+  width: 155px;
+  height: 40px;
+  background: #6246E4;
+  border-radius: 5px;
+  border: transparent;
+  color: #FFFFFF;
+  font-family: 'SF Pro Display';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.Ai img {
+  position: absolute;
+  width: 781.29px;
+  height: 694px;
+  left: 627px;
+  top: 157px;
+}
+
+.Shapes img {
+  position: absolute;
+  width: 181px;
+  height: 249px;
+  left: 600px;
+  top: 267px;
+}
+
+.group195 {
+  position: absolute;
+  width: 443px;
+  height: 452px;
+  left: 165px;
+  top: 279px;
+  font-family: 'SF Pro Display';
+}
+
+.GetBusinessSolution h1 {
+  position: absolute;
+  font-family: 'SF Pro Display';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 60px;
+  margin-top: 0;
+  color: #181818;
+}
+
+.PowerOfBusiness p {
+  position: absolute;
+  top: 40%;
+  color: #6A6A6A;
+  font-family: 'SF Pro Display';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 26px;
+}
+
+.group194 {
+  position: absolute;
+  width: 255px;
+  height: 70px;
+  top: 280px;
+}
+
+
+.group194 button {
+  position: absolute;
+  width: 155px;
+  height: 40px;
+  background: #6246E4;
+  border-radius: 5px;
+  border: transparent;
+  color: #FFFFFF;
+  font-family: 'SF Pro Display';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 26px;
+
+}

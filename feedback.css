@@ -1,0 +1,85 @@
+.feedback {
+    position: absolute;
+    width: 1110px;
+    height: 324px;
+    left: 165px;
+    top: 3458px;
+}
+
+.whatTheySay {
+    height: 100px;
+}
+
+.whatTheySay img {
+    margin: 40px;
+    background-color: #cccccc;
+    height: 100px;
+    padding: 10px 5px;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background: url(images/bubble_4.png);
+}
+
+.whatTheySay h3 {
+    position: absolute;
+    height: 62px;
+    top: 40%;
+    left: 30px;
+    font-family: 'Gilroy-Bold';
+    font-size: 32px;
+    line-height: 62px;
+    letter-spacing: -0.512px;
+    color: #2D2D2D;
+}
+
+.whatTheySay p {
+    position: absolute;
+    height: 62px;
+    top: 60%;
+    left: 30px;
+    width: 300px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 28px;
+    color: #626262;
+}
+
+.review1 {
+    position: absolute;
+    width: 682px;
+    height: 256px;
+    left: 370px;
+    top: 28px;
+}
+
+.review2 {
+    position: absolute;
+    width: 341px;
+    height: 256px;
+    left: 724px;
+    top: 28px;
+}
+
+.arrow {
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid #EDEDED;
+    text-align: center;
+    margin: 8px 0;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 18px;
+    line-height: 28px;
+    color: #626262;
+    border-radius: 99px;
+    position: relative;
+    top: 3px;
+    left: 1075px;
+}

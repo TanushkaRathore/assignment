@@ -1,0 +1,178 @@
+.footer {
+    position: absolute;
+    width: 1480px;
+    height: 648px;
+    top: 4370px;
+}
+
+.footer img {
+    position: absolute;
+    left: 131px;
+    right: 87.57%;
+    top: 22.29%;
+    bottom: 5.52%;
+}
+
+.text {
+    position: absolute;
+    width: 231px;
+    height: 140px;
+    left: 440px;
+    top: 120px;
+}
+
+.text h1 {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 39px;
+}
+
+.text p {
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #4F4F4F;
+}
+
+.rectangle {
+    position: absolute;
+    width: 1350px;
+    height: 369px;
+    left: 131px;
+    top: 280px;
+    background: #FAFAFA;
+}
+
+.form {
+    position: absolute;
+    width: 440px;
+    height: 400px;
+    left: 770px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 15px 20px 80px rgba(0, 0, 0, 0.09);
+}
+
+form input {
+    position: absolute;
+    width: 330px;
+    left: 20px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #4F4F4F;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid#D7D7D7;
+}
+
+form label {
+    position: absolute;
+    width: 47px;
+    height: 18px;
+    left: 20px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #4F4F4F;
+}
+
+form button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 19px 44px;
+    gap: 10px;
+    color: white;
+    position: absolute;
+    width: 100px;
+    height: 44px;
+    left: 50px;
+    top: 300px;
+    border: none;
+    background: #6246E4;
+    border-radius: 12px;
+}
+
+.group9 img {
+    position: absolute;
+    width: 66px;
+    height: 45px;
+    left: 246px;
+    top: 500px;
+}
+
+.footerLinks {
+    position: absolute;
+    width: 430px;
+    height: 24px;
+    left: 845px;
+    top: 520px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.footerLinks ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.footerLinks ul li {
+    text-decoration: none;
+    padding: 0 20px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #4F4F4F;
+}
+
+.footerLinks ul li:hover {
+    color: #4F4F4F;
+    font-size: large;
+}
+
+.rectangle24 {
+    position: absolute;
+    width: 1350px;
+    height: 3px;
+    left: 131px;
+    top: 570px;
+    background: #E4E4E4;
+}
+
+.footerCopyRight {
+    position: absolute;
+    width: 307px;
+    height: 14px;
+    left: 249px;
+    top: 593px;
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 14px;
+    color: #4F4F4F;
+}
+
+.footerSocial {
+    position: absolute;
+    width: 440px;
+    height: 30px;
+    left: 704px;
+    top: 593px;
+}

@@ -1,0 +1,132 @@
+.service {
+    position: absolute;
+    width: 1110px;
+    height: 720px;
+    left: 165px;
+    top: 1050px;
+
+}
+
+.serviceText {
+    position: absolute;
+    margin-top: 0px;
+
+}
+
+.serviceText h1 {
+    position: absolute;
+    width: 340px;
+    height: 60px;
+    left: 350px;
+    /* top: 50px; */
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 60px;
+    text-align: center;
+    color: #343333;
+}
+
+.serviceText p {
+
+    position: absolute;
+    width: 730px;
+    height: 76px;
+    left: 190px;
+    top: 70px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #838383;
+}
+
+.servicesGraphs {
+    position: absolute;
+    top: 106px;
+    display: grid;
+    line-height: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.graph1 {
+    position: absolute;
+    top: 146px;
+    left: 40px;
+    height: 450px;
+    width: 300px;
+    background: #F7FAFD;
+    border-radius: 30px;
+}
+
+.graph2 {
+    position: absolute;
+    top: 146px;
+    left: 400px;
+    height: 450px;
+    width: 300px;
+    background: #6246E4;
+    box-shadow: 10px 30px 50px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+
+.graph3 {
+    position: absolute;
+    top: 146px;
+    left: 750px;
+    height: 450px;
+    width: 300px;
+    background: #F7FAFD;
+    border-radius: 30px;
+}
+
+.graphHead h3 {
+    font-size: 30px;
+    color: #2D2D2D;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+}
+
+.graphDiscription {
+    height: 300px;
+    width: 300px;
+}
+
+.graphDiscription p {
+    font-size: 20px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #838383;
+}
+
+.graphHead2 h3 {
+    font-size: 30px;
+    color: white;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+}
+
+.graphDiscription2 {
+    height: 300px;
+    width: 300px;
+}
+
+.graphDiscription2 p {
+    font-size: 20px;
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+}
